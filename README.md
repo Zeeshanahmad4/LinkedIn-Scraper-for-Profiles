@@ -34,7 +34,7 @@
 
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/blob/master/codesnap.PNG)
+![Code](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/blob/master/3.jpg)
 
 ## Output Data
 ![Output-Data](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/blob/master/datasnap.PNG)
