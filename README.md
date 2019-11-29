@@ -63,12 +63,7 @@ pip install request
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Scraper is for getting all info in the linkdlin profiles. Scraper required sign in using your account credentials .
-You have to enter job title for searching people i.e Datascience it will scrape all result against this search.
-Scraper will give output in json format includes all the possible info in each the profile.
-YOU WILL NEED FIREFOX AND GECKO SELENIUM DRRIVER TO RUN THIS SCRIPT.
-PLEASE ADD YOUR USERNAME AND PASSWROD FOR YOUR LINKEDIN ACCOUNT AT LINE 10 AND 11.
-PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
+The scraper is forgetting all info in the LinkedIn profiles. Scraper required to sign in using your account credentials. You have to enter job title for searching people i.e Data science it will scrape all results against this search. The scraper will give output in JSON format includes all the possible info in each profile. YOU WILL NEED FIREFOX AND GECKO SELENIUM DRIVER TO RUN THIS SCRIPT. PLEASE ADD YOUR USERNAME AND PASSWORD FOR YOUR LINKEDIN ACCOUNT AT LINE 10 AND 11. PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
 
 
 
