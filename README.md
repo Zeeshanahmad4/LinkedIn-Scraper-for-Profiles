@@ -34,10 +34,10 @@
 
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture2.PNG)
+![Code](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/blob/master/codesnap.PNG)
 
 ## Output Data
-![Output-Data](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture3.PNG)
+![Output-Data](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/blob/master/datasnap.PNG)
 
 
 ### Built With
@@ -51,7 +51,7 @@
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us.git
+git clone https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles.git
 ```
 
 2. Install python packages
@@ -83,7 +83,7 @@ PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING P
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Zeeshanahmad4/LinkedIn-Scraper-for-Profiles/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
