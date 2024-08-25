@@ -10,7 +10,6 @@
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">LinkedIn Scraper for Profiles</a> <br>
-                                 Project/Code is confidential you can contact me for more info</h3>
 </p>
 
 
